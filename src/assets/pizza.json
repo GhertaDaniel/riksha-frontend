@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Комбо микс",
+    "weight": "200 грамм · 130 ккал",
+    "productImage": "/assets/card/combo/combo1.png",
+    "type": "NEW",
+    "ingredients": "Пицца Баварская; Сет Фирменный;",
+    "sizes": [
+      {
+        "id": 1,
+        "size": 30
+      },
+      {
+        "id": 2,
+        "size": 50
+      }
+    ],
+    "oldPrice": "1499",
+    "currentPrice": "1319"
+  },
+  {
+    "id": 2,
+    "name": "Дабл пицца",
+    "weight": "200 грамм · 130 ккал",
+    "productImage": "/assets/card/combo/combo2.png",
+    "ingredients": "Пицца Баварская; Пицца 4 Сыра; Coca-Cola (1 л)",
+    "sizes": [
+      {
+        "id": 1,
+        "size": 30
+      },
+      {
+        "id": 2,
+        "size": 50
+      }
+    ],
+    "oldPrice": "899",
+    "currentPrice": "1799"
+  },
+  {
+    "id": 3,
+    "name": "Комбо Small party",
+    "weight": "200 грамм · 130 ккал",
+    "productImage": "/assets/card/combo/combo3.png",
+    "ingredients": "Пицца Неаполитано; Пицца Царская; Сет Суши шок;",
+    "sizes": [
+      {
+        "id": 1,
+        "size": 30
+      },
+      {
+        "id": 2,
+        "size": 50
+      }
+    ],
+    "oldPrice": "269",
+    "currentPrice": "219"
+  }
+]

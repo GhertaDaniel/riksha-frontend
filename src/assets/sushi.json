@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "Ролл 'Филаделфия'",
+    "weight": "200 грамм · 130 ккал",
+    "productImage": "assets/card/sushi/Philadellphia.png",
+    "type": "TOP",
+    "category": [
+      {
+        "type": "Горячий ролл",
+        "img": "assets/card/sushi/hot.svg"
+      },
+      {
+        "type": "Острое",
+        "img": "assets/card/sushi/baked.svg"
+      }
+    ],
+    "ingredients": "Лосось, сыр 'Филадельфия', огурец, авокадо",
+    "oldPrice": "269",
+    "currentPrice": "219"
+  },
+  {
+    "id": 1,
+    "name": "Ролл 'Сливочная креветка'",
+    "weight": "200 грамм · 130 ккал",
+    "productImage": "assets/card/sushi/sushi-shrimp.png",
+    "type": "TOP",
+    "category": [
+      {
+        "type": "Горячий ролл",
+        "img": "assets/card/sushi/baked.svg"
+      }
+    ],
+    "ingredients": "Лосось, сыр 'Филадельфия', огурец, авокадо",
+    "oldPrice": "224",
+    "currentPrice": "219"
+  },
+  {
+    "id": 2,
+    "name": "Ролл 'Чикен энд Чиз'",
+    "weight": "200 грамм · 130 ккал",
+    "productImage": "assets/card/sushi/chicken.png",
+    "type": "TOP",
+    "category": [
+      {
+        "type": "Острое",
+        "img": "assets/card/sushi/hot.svg"
+      },
+      {
+        "type": "Горячий ролл",
+        "img": "assets/card/sushi/baked.svg"
+      }
+    ],
+    "ingredients": "Лосось, сыр 'Филадельфия', огурец, авокадо",
+    "oldPrice": "232",
+    "currentPrice": "199"
+  }
+]
